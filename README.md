@@ -1,5 +1,5 @@
 # About Me:
-Focused on DSA and competitive programming in C++, with a parallel shift toward Python and machine learning for AI engineering.<br>Actively exploring modern AI tools, libraries, and AI-assisted coding workflows to accelerate learning and development.<br>Working to strengthen advanced DSA patterns, optimization techniques, and problem-to-system thinking.<br>Currently learning core ML concepts and experimenting with emerging AI technologies and frameworks.
+Software Engineer | Backend & AI | Python • FastAPI • PostgreSQL • C++ | Building production-oriented systems
 
 
 ## Socials:
